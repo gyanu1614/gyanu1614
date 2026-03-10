@@ -38,13 +38,10 @@ Built a custom CNN architecture with ensemble learning achieving 99.80% accuracy
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gyanu1614&show_icons=true&theme=nord&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanu1614&theme=nord&hide_border=true" height="165" />
-</p>
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanu1614&layout=compact&theme=nord&hide_border=true&langs_count=8" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanu1614&theme=nord&hide_border=true" height="165" />
 </p>
 
 ---
